@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Play Sports Network</string>
+    <string name="video_image_view">video Image View</string>
+    <string name="video_title">Title</string>
+    <string name="go_to_the_moon">Go to the moon</string>
+    <string name="title">title</string>
+    <string name="list_item_iv">list_item_Iv</string>
+    <string name="splash_screen_image">splash screen image</string>
+</resources>
