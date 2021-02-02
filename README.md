@@ -2,4 +2,4 @@
 
 
 # Installation 
- please insert your API key in the constants file and complie
+ Please insert your API key in the Constants.kt file and complie
